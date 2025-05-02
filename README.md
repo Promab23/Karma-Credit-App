@@ -19,5 +19,5 @@ A unique application to track and manage personal "Karma Credits" — gamifying 
 - Deployment: Vercel / Render
 
 ## 🙋 About Me
-This project is part of my personal initiative to explore gamification for self-improvement and social impact. I plan to fully develop it by [insert target date].
+This project is part of my personal initiative to explore gamification for self-improvement and social impact. I plan to fully develop it by June 2025.
 
