@@ -1,5 +1,5 @@
 # Karma Credit App 🚀
-
+https://preview--karma-credits.lovable.app/login
 ⚠️ _Status: In Progress / Planned_
 
 A unique application to track and manage personal "Karma Credits" — gamifying good deeds and positive actions for self-growth and community engagement.
